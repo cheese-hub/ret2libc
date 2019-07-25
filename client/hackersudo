@@ -1,0 +1,2 @@
+jovyan ALL=(root) NOPASSWD: /bin/chmod
+jovyan ALL=(root) NOPASSWD: /bin/chown
